@@ -1,0 +1,6 @@
+name = VBO Search And Replace
+description = Provides a search and replace action for Views bulk operations
+dependencies[] = views_bulk_operations
+package = Views
+core = 7.x
+
